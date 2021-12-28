@@ -1,0 +1,37 @@
+h1{
+  text-align: center;
+  color: white;
+}
+
+h2{
+  text-align: right;
+  padding: 40px 80px;
+  color: white;
+}
+
+ul{
+  list-style-type: none;
+}
+
+li {
+  border-left: solid;
+  border-width: medium;
+  float: left;
+
+}
+
+li a {
+  list-style-type: none;
+  color: white;
+  padding: 20px 190px;
+}
+
+body{
+  background-image: url("Assets/roses.jpg");
+  background-size: cover;
+}
+
+p {
+  color: white;
+  font-size: 35px;
+}

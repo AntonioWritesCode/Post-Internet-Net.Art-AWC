@@ -1,0 +1,44 @@
+h1 {
+  text-align: center;
+  color: white;
+}
+
+p {
+  text-align: left;
+  color: white;
+  font-size: 15px;
+
+}
+
+ul{
+  list-style-type: none;
+}
+
+li {
+  border-left: solid;
+  border-width: medium;
+  float: left;
+
+}
+
+li a {
+  list-style-type: none;
+  color: white;
+  padding: 30px 130px;
+}
+
+h2 {
+  text-align: left;
+  color: white;
+  font-size: 25px;
+}
+
+h3{
+  text-align: bottom;
+  color: white;
+}
+
+body{
+  background: url("Assets/hand.gif") no-repeat fixed center;
+  background-size: cover;
+}
